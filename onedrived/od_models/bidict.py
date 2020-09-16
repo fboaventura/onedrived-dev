@@ -3,4 +3,4 @@ try:
 except ImportError:
     import bidict
     class loosebidict(bidict.bidict):
-        on_dup_val = bidict.OVERWRITE
+        on_dup_val = bidict.DROP_OLD

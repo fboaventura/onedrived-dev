@@ -11,7 +11,7 @@ import pkgutil
 __project__ = 'onedrived'
 __author__ = 'Xiangyu Bu'
 __email__ = 'xybu92@live.com'
-__version__ = '2.0.0'
+__version__ = '2.0.1'
 __homepage__ = 'https://github.com/xybu/onedrived-dev'
 
 
